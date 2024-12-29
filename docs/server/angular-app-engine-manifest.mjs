@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/stitch/',
+  basePath: '/stitch/browser',
   entryPoints: {
     '': () => import('./main.server.mjs')
   },
